@@ -48,11 +48,14 @@
                                                                                                                                                                                                          
    * **[Projeto Fitness API](https://github.com/murilofelipe/projeto-fitness-api)** <br>                                                                                                                
       API robusta e escalável desenvolvida em Python para dar suporte ao backend de ecossistemas focados em saúde e bem-estar (fortemente alinhado à minha pesquisa de mestrado).                        
-    * **[Kafka Event-Driven Project](https://github.com/murilofelipe/kafka-project)** <br>                                                                                                               
+   
+   * **[Kafka Event-Driven Project](https://github.com/murilofelipe/kafka-project)** <br>                                                                                                               
       Estudo e implementação de uma arquitetura orientada a eventos usando Python e Apache Kafka.                                                                                                        
-    * **[Template Serviço Python](https://github.com/murilofelipe/template-servico-python)** <br>                                                                                                        
+   
+   * **[Template Serviço Python](https://github.com/murilofelipe/template-servico-python)** <br>                                                                                                        
       Template arquitetural padronizado para a criação ágil de microserviços com boas práticas de engenharia de software.                                                                                
-    * **[Pet Care Ecosystem](https://github.com/murilofelipe/pet-care-tracker)** <br>                                                                                                                    
+   
+   * **[Pet Care Ecosystem](https://github.com/murilofelipe/pet-care-tracker)** <br>                                                                                                                    
       Ecossistema focado no cuidado de pets com backend em Java e [App nativo em Kotlin (Android)](https://github.com/murilofelipe/pet-care-android-app).                                                
                                                                                                                                                                                                          
    *(A maior parte do meu trabalho focado em Sistemas Embarcados IoT (BLE/LoRaWAN), Arquitetura de Dados, MMORPG e Agentes de IA reside em repositórios privados ou em desenvolvimento local).*         
