@@ -29,6 +29,7 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
@@ -86,5 +87,10 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Murilo's Stats" />
       <br><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Top Languages" />
+      <br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Most committed languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Commit time" />
+      <br><br>
+      <img src="https://streak-stats.demolab.com/?user=murilofelipe&theme=dracula&background=0D1117&hide_border=true" alt="Contribution streak" />
     </div>
     
