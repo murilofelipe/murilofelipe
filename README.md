@@ -58,6 +58,24 @@
    * **[Pet Care Ecosystem](https://github.com/murilofelipe/pet-care-tracker)** <br>                                                                                                                    
       Ecossistema focado no cuidado de pets com backend em Java e [App nativo em Kotlin (Android)](https://github.com/murilofelipe/pet-care-android-app).                                                
                                                                                                                                                                                                          
+   * **[Titan](https://github.com/murilofelipe/Titan)** <br>
+      Orquestrador de múltiplos agentes de IA especializados, funcionando como uma esteira de produção adaptável a diferentes perfis de engenharia (Backend, Dados, Mobile etc.).
+   
+   * **[Agent Provider Pool](https://github.com/murilofelipe/agent-provider-pool)** <br>
+      Pool embarcável de provedores de LLM com *failover* automático por cota: escala para o próximo modelo e depois para o próximo provedor, sozinho.
+   
+   * **[RME Agent Bridge](https://github.com/murilofelipe/rme-agent-bridge)** <br>
+      Ponte nativa entre agentes de IA e o Remere's Map Editor (C++, TypeScript, Python, Docker) para geração procedural de mapas OpenTibia em tempo real.
+   
+   * **[Dittogen](https://github.com/murilofelipe/dittogen)** <br>
+      Motor open source de naming para gerar e avaliar nomes de marcas, com pontuação fonética, análise de unicidade e checagem de domínios e redes sociais.
+   
+   * **[Avatar Corporal](https://github.com/murilofelipe/avatar-corporal)** <br>
+      Pacote TypeScript que resolve a imagem de composição corporal a partir do % de gordura e da região dominante.
+   
+   * **[Template Serviço Rust](https://github.com/murilofelipe/template-servico-rust)** <br>
+      Template de microsserviço em Rust com CI/CD, SAST (`cargo-audit`/`cargo-deny`), cobertura e imagem Docker multi-stage.
+   
    *(A maior parte do meu trabalho focado em Sistemas Embarcados IoT (BLE/LoRaWAN), Arquitetura de Dados, MMORPG e Agentes de IA reside em repositórios privados ou em desenvolvimento local).*         
                                                                                                                                                                                                          
    ---                                                                                                                                                                                                  

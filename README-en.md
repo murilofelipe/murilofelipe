@@ -58,6 +58,24 @@
    * **[Pet Care Ecosystem](https://github.com/murilofelipe/pet-care-tracker)** <br>
       Ecosystem focused on pet care with a Java backend and a [native Kotlin App (Android)](https://github.com/murilofelipe/pet-care-android-app).
   
+   * **[Titan](https://github.com/murilofelipe/Titan)** <br>
+      Orchestrator of specialized AI agents working as an adaptable production pipeline across engineering profiles (Backend, Data, Mobile, etc.).
+   
+   * **[Agent Provider Pool](https://github.com/murilofelipe/agent-provider-pool)** <br>
+      Embeddable LLM provider pool with quota-aware automatic failover: escalates to the next model, then the next provider, on its own.
+   
+   * **[RME Agent Bridge](https://github.com/murilofelipe/rme-agent-bridge)** <br>
+      Native bridge between AI agents and Remere's Map Editor (C++, TypeScript, Python, Docker) for real-time procedural OpenTibia map generation.
+   
+   * **[Dittogen](https://github.com/murilofelipe/dittogen)** <br>
+      Open source naming engine that generates and scores brand names, with phonetic scoring, uniqueness analysis and domain/social-handle availability checks.
+   
+   * **[Avatar Corporal](https://github.com/murilofelipe/avatar-corporal)** <br>
+      TypeScript package that resolves the body-composition image from body-fat % and dominant region.
+   
+   * **[Template Serviço Rust](https://github.com/murilofelipe/template-servico-rust)** <br>
+      Rust microservice template with CI/CD, SAST (`cargo-audit`/`cargo-deny`), coverage and a multi-stage Docker image.
+   
    *(Most of my work focused on IoT Embedded Systems (BLE/LoRaWAN), Data Architecture, Game Dev, and AI Agents resides in private repositories).*
   
    ---
