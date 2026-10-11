@@ -89,7 +89,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Linguagens mais usadas" />
       <br><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Linguagens por commits" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=murilofelipe&theme=dracula&bg_color=0D1117" alt="Horário de commits" />
       <br><br>
       <img src="https://streak-stats.demolab.com/?user=murilofelipe&theme=dracula&background=0D1117&hide_border=true" alt="Sequência de contribuições" />                        
     </div>   
