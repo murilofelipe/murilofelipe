@@ -49,7 +49,7 @@
 
    | Produto | Status | Link | O que é |
    |---|---|---|---|
-   | **Sition** | 🟢 Produção | [sition.murilofelipe.com](https://sition.murilofelipe.com) | SaaS de gestão rural (por convite): propriedades, animais, cultivos, financeiro e equipe. |
+   | **Sition** | 🟢 Produção | [sition.tech](https://sition.tech) | SaaS de gestão rural (por convite): propriedades, animais, cultivos, financeiro e equipe. |
    | **Orkaup** | 🟡 Alpha · lançamento em breve | [alpha.orkaup.com](https://alpha.orkaup.com) | Plataforma de treinos, nutrição, metas e gamificação para alunos, professores e academias. |
    | **Finanças** | 🟡 Alpha | [financas-alpha.murilofelipe.com](https://financas-alpha.murilofelipe.com) | Finanças pessoais e carteira de investimentos (ações BR/EUA, renda fixa, FIIs). |
 

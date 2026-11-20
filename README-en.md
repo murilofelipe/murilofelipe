@@ -49,7 +49,7 @@
 
    | Product | Status | Link | What it is |
    |---|---|---|---|
-   | **Sition** | 🟢 Production | [sition.murilofelipe.com](https://sition.murilofelipe.com) | Invite-only rural management SaaS: properties, animals, crops, finances and team. |
+   | **Sition** | 🟢 Production | [sition.tech](https://sition.tech) | Invite-only rural management SaaS: properties, animals, crops, finances and team. |
    | **Orkaup** | 🟡 Alpha · launching soon | [alpha.orkaup.com](https://alpha.orkaup.com) | Training, nutrition, goals and gamification platform for students, trainers and gyms. |
    | **Finanças** | 🟡 Alpha | [financas-alpha.murilofelipe.com](https://financas-alpha.murilofelipe.com) | Personal finance and investment portfolio (BR/US stocks, fixed income, REITs). |
 
