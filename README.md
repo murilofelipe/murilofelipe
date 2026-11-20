@@ -45,6 +45,18 @@
                                                                                                                                                                                                          
    ---                                                                                                                                                                                                  
                                                                                                                                                                                                          
+   ### 🌐 Produtos do Ecossistema
+
+   | Produto | Status | Link | O que é |
+   |---|---|---|---|
+   | **Sition** | 🟢 Produção | [sition.murilofelipe.com](https://sition.murilofelipe.com) | SaaS de gestão rural (por convite): propriedades, animais, cultivos, financeiro e equipe. |
+   | **Orkaup** | 🟡 Alpha · lançamento em breve | [alpha.orkaup.com](https://alpha.orkaup.com) | Plataforma de treinos, nutrição, metas e gamificação para alunos, professores e academias. |
+   | **Finanças** | 🟡 Alpha | [financas-alpha.murilofelipe.com](https://financas-alpha.murilofelipe.com) | Finanças pessoais e carteira de investimentos (ações BR/EUA, renda fixa, FIIs). |
+
+   Por trás deles: login único OIDC (**Heimdall**), eventos com **Kafka**, BI em camadas (**Rodata**), gamificação em Rust (**Evolvia**), assistente de IA local com Ollama (**Chat LLM**) e serviço de e-mail transacional com *failover*, tudo com exclusão de dados por LGPD. Detalhes em [murilofelipe.com](https://murilofelipe.com).
+
+   ---
+
    ### 📁 Projetos Públicos em Destaque                                                                                                                                                                 
                                                                                                                                                                                                          
    * **[Projeto Fitness API](https://github.com/murilofelipe/projeto-fitness-api)** <br>                                                                                                                
